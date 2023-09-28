@@ -1,8 +1,8 @@
 ### sven's github profile
 
-hello there, my name is sven. I am a computer science student at **Paderborn University**.
+Hello there, my name is sven. I am a computer science student at **Paderborn University**.
 
-These days, I mainly code in C, Rust or Common Lisp.
+I mainly code in Common Lisp, C, or Rust.
 
 <!--
 **sven-hluchy/sven-hluchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
